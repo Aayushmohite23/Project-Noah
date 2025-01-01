@@ -149,6 +149,14 @@ export const navigationLinks = [
         //   { label: "Graphic", link: "/services/design/graphic" },
         // ],
       },
+      {
+        label: "Terms",
+        link: "/support/terms",
+        // subOptions: [
+        //   { label: "UI/UX", link: "/services/design/ui-ux" },
+        //   { label: "Graphic", link: "/services/design/graphic" },
+        // ],
+      },
     ],
   },
   {
