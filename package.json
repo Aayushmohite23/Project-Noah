@@ -11,6 +11,7 @@
     "embla-carousel-react": "^8.1.6",
     "firebase": "^10.12.3",
     "framer-motion": "^11.2.12",
+    "frontend": "file:",
     "gsap": "^3.12.5",
     "prettier": "^3.3.2",
     "react": "^18.3.1",
